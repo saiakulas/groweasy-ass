@@ -4,7 +4,7 @@
     "title": "Ad Banner 1",
     "description": "Description for Ad Banner 1",
     "cta": "Click Here",
-    "image": "/images/ad1.png",
+    "image": "bannerbot-banner (1).png",
     "background": "#f0f0f0"
   },
   {
@@ -12,7 +12,63 @@
     "title": "Ad Banner 2",
     "description": "Description for Ad Banner 2",
     "cta": "Learn More",
-    "image": "/images/ad2.png",
+    "image": "bannerbot-banner (2).png",
     "background": "#e0e0e0"
+  },
+  {
+    "id": 3,
+    "title": "Ad Banner 3",
+    "description": "Description for Ad Banner 3",
+    "cta": "Sign Up Now",
+    "image": "bannerbot-banner (3).png",
+    "background": "#d0d0d0"
+  },
+  {
+    "id": 4,
+    "title": "Ad Banner 4",
+    "description": "Description for Ad Banner 4",
+    "cta": "Shop Now",
+    "image": "bannerbot-banner (5).png",
+    "background": "#c0c0c0"
+  },
+  {
+    "id": 5,
+    "title": "Ad Banner 5",
+    "description": "Description for Ad Banner 5",
+    "cta": "Book Now",
+    "image": "bannerbot-banner (4).png",
+    "background": "#b0b0b0"
+  },
+  {
+    "id": 6,
+    "title": "Ad Banner 6",
+    "description": "Description for Ad Banner 6",
+    "cta": "Download Now",
+    "image": "bannerbot-banner.png",
+    "background": "#a0a0a0"
+  },
+  {
+    "id": 7,
+    "title": "Ad Banner 7",
+    "description": "Description for Ad Banner 6",
+    "cta": "Download Now",
+    "image": "bannerbot-banner (7).png",
+    "background": "#a0a0a0"
+  },
+  {
+    "id": 8,
+    "title": "Ad Banner 8",
+    "description": "Description for Ad Banner 6",
+    "cta": "Download Now",
+    "image": "bannerbot-banner (8).png",
+    "background": "#a0a0a0"
+  },
+  {
+    "id": 9,
+    "title": "Ad Banner 9",
+    "description": "Description for Ad Banner 6",
+    "cta": "Download Now",
+    "image": "bannerbot-banner (10).png",
+    "background": "#a0a0a0"
   }
 ]
