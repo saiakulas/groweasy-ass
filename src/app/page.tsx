@@ -1,9 +1,11 @@
+"use client"
 import Image from "next/image";
+import Home from "../app/pages/index"; // Adjust the path and component name as needed
 
-export default function Home() {
+export default function HomePage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>sai</h1>
-    </main>
+    <div>
+      <Home />
+    </div>
   );
 }
