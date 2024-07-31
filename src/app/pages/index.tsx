@@ -25,13 +25,13 @@ const Home: React.FC = () => {
     <div
       className="p-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4"
       style={{
-        backgroundImage: `url(https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/5/square.png)`,
+        backgroundImage: `url(https://bannerbot-public.s3.ap-south-1.amazonaws.com/templates/1/square.png)`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
       }}
     >
       {banners.map((banner) => (
-        <div key={banner.id} className="bg-white shadow-md rounded-lg overflow-hidden relative w-80 h-96">
+        <div key={banner.id} className="bg-white shadow-md rounded-lg overflow-hidden relative w-96 h-96">
           <img src={banner.image} alt={banner.title} className="w-full h-64 object-cover" />
           <div className="p-4">
             <h2 className="text-xl font-bold mb-2">{banner.title}</h2>
